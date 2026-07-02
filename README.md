@@ -1,5 +1,7 @@
 # Fallout Badge
-Designed a PCB Badge to share at Fallout. It is a facial marking and I used mask to create 3 different colors. It is inspired by Choso from JJK. 
+
+Designed a PCB Badge to share at Fallout. It is a facial marking, and I used a mask to create 3 different colors. It is inspired by Choso from JJK. All the files are within FalloutChain
+
 BOM: Nothing, I did not use any components
 
 <img width="454" height="356" alt="image" src="https://github.com/user-attachments/assets/337e8112-71f1-43bd-a086-ff97f72451aa" />
